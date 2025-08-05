@@ -1,0 +1,1 @@
+this contains a Face Recognition Attendance System planning in a png format.
